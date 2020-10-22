@@ -1,0 +1,28 @@
+nav {
+    background-color: #6ea5ee;
+}
+.card{
+    box-shadow: none;
+}
+.btn-floating{
+    width:100px;
+    border-radius: 5px;
+}
+.btn-floating.halfway-fab {
+    position: relative;
+    right: -60px;
+    bottom: 0;
+}
+nav i.displayBlk{
+    display:inline-block;
+}
+.add-remove{
+    position: absolute;
+    left: 325px;
+    top: 154px;
+}
+.add-remove-1{
+    position: absolute;
+    left: 0px;
+    top: 10px;
+}
